@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset=" UTF-8 ">
+	<meta name="viewport" content="width=device-width">
+	<title>Patricia Cordeiro</title>
+	<link rel="shortcut icon 
+    href=" assets/img/favicon.ico " />
+    <link href="style.css " rel="stylesheet " type="text/css "/>
+    <link rel="stylesheet "href= "https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css "
+	 "integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO " crossorigin="anonymous > 
+   
+   
+   </head>
+   <body>
+
+
+		<!--menu de navegação -->
+
+		<header>
+			<nav class=" navbar fixed-top ">
+ <a href="# " class="nome-menu ">Patricia Cordeiro</a>
+ <ul class="nav justify-content-end ">
+     <li class="nav-item ">
+        <a class="nav-link " href="# ">
+          Home
+         </a>
+      </li>
+            <li class="nav-item ">
+    <a class= "nav-link " href="#sobre mim ">
+     Sobre mim
+             </a>
+           </li>
+           <li lass="nav-item ">
+    <a class="nav-link " href="#Extras ">
+     Extras
+              </a>
+           </li>
+  <li class="nav-item ">
+    <a class="nav-link " href="#contato ">
+      Contato
+  
+  
+  
+             </a>
+            </li>
+  
+         </ul>
+   </nav>
+</header>  
+<div class = "container "
+	
+  
+  <!--Home -->
+
+  <section class ="home ">
+<div class="texto ">
+  <h2> Eaí! eu sou a <span class="nome ">Patricia</span>! </h2>
+  <p>Estudante de programação e desenvolvmento de sistemas :)<p/>
+  <a href="assets/Recursos/texto.pdf "
+    Download= "texto.pdf " class="button " >Baixar Extra</a>
+  <img src="assets/img/img-home.svg" alt="Minha foto na tela ">
+  
+</selection>
+</div>
+
+</body>
+</html>
